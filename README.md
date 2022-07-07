@@ -1,2 +1,2 @@
 # iid
-inspur decentralized identity
+Inspur chain decentralized identity
